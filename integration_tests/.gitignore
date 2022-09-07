@@ -1,0 +1,12 @@
+allure-results/
+allure-report/
+node_modules/
+typeScript/
+reports/
+.vscode
+*.log
+.DS_Store
+.env
+package-lock.json
+build/
+test-report
